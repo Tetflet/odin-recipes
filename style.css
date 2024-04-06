@@ -1,3 +1,23 @@
-#title {
+h1 {
     text-align:center;
+}
+
+.recipe {
+    text-align: center;
+    font-size: 24px;
+}
+
+.orzo {
+    background-color: rgb(53, 230, 37);
+    color: rgb(255, 255, 255);
+}
+
+.casserole {
+    background-color: rgb(212, 167, 52);
+    color: rgb(0, 0, 0);
+}
+
+.ham {
+    background-color: palevioletred;
+    color: black;
 }
